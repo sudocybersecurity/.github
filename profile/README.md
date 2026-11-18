@@ -18,9 +18,9 @@ Cybersecurity · Platformbeveiliging · Hardening · Cloud-native security
 Sudo Cybersecurity zorgt dat servers, clusters en beheer technisch doen wat het beveiligingsbeleid belooft. Aantoonbaar, en zo dat het zo blijft.
 
 - **Platformbeveiliging doorgelicht**: hoe staan uw Linux-servers, containerplatforms en beheerprocessen ervoor?
-- **CIS-hardening van servers**: elke instelling in Ansible-code, herhaalbaar en controleerbaar
+- **CIS-hardening van servers**: elke instelling in code, herhaalbaar en controleerbaar
 - **Kubernetes- en OpenShift-beveiliging**: RBAC, network policies, pod security, secrets en image provenance
-- **Beveiligingsmaatregelen technisch inrichten**: de technische kant van uw Cbw/NIS2-maatregelen
+- **Beveiligingsmaatregelen technisch inrichten**: de technische kant van uw Cbw/NIS2/BIO-maatregelen
 - **Doorlopend beheer en controle**: configuratie bewaken, benchmarks bijhouden, elk kwartaal rapporteren
 - **Interim Security Engineering**: tijdelijk een ervaren security engineer in uw team
 
@@ -54,7 +54,7 @@ Open source where possible · Hosted in the Netherlands, under our own managemen
 
 ## Waar we in thuis zijn / Our stack
 
-`Linux (RHEL, Ubuntu)` `CIS Benchmarks` `Ansible` `AAP` `Kubernetes` `OpenShift` `Microsoft 365` `Entra ID` `Elastic` `PostgreSQL` `Infrastructure as Code`
+`Linux` `CIS Benchmarks` `Ansible` `AAP` `Kubernetes` `OpenShift` `Microsoft 365` `Entra ID` `Elastic` `PostgreSQL` `Infrastructure as Code`
 
 ## Kennis / Articles
 
