@@ -15,7 +15,7 @@ Cybersecurity · Platformbeveiliging · Hardening · Cloud-native security
 
 ## 🇳🇱 Wat wij doen
 
-Sudo Cybersecurity zorgt dat servers, clusters en beheer technisch doen wat het beveiligingsbeleid belooft. Aantoonbaar, en zo dat het zo blijft.
+Sudo Cybersecurity zorgt dat servers, clusters en beheer technisch doen wat het beveiligingsbeleid belooft. Op aantoonbare wijze en met de zekerheid dat het ook zo blijft.
 
 - **Platformbeveiliging doorgelicht**: hoe staan uw Linux-servers, containerplatforms en beheerprocessen ervoor?
 - **CIS-hardening van servers**: elke instelling in code, herhaalbaar en controleerbaar
